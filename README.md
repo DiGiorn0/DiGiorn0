@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on don't know yet
 - 📫 How to reach me GitHub is good
 - ⚡ Fun fact: I have no background in computers/computer science
+- Testing some modifications to a file.
 
 <!---
 DiGiorn0/DiGiorn0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
